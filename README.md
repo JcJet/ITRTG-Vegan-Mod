@@ -46,7 +46,7 @@ You need to install BepInEx first, then extract the release ZIP into the game fo
 
 Use this section if you run the native Windows version of the game.
 
-1. Download **BepInEx 5 x64** for Windows from the BepInEx releases page.
+1. Download **BepInEx 5 x64** for Windows from the BepInEx releases page. https://github.com/BepInEx/BepInEx/releases
 2. Open the game folder in Steam:
 
    ```text
