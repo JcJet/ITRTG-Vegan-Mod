@@ -1,0 +1,22 @@
+# resource_path_or_asset_name	texture_file	pivot_x	pivot_y	pixels_per_unit
+Gui/pets/food_puny	food_puny.png	0.5000898	0.51502866	100
+food_puny	food_puny.png	0.5000898	0.51502866	100
+Gui/pets/food_strong	food_strong.png	0.47364196	0.5002862	100
+food_strong	food_strong.png	0.47364196	0.5002862	100
+Gui/pets/food_mighty	food_mighty.png	0.504207	0.61875176	100
+food_mighty	food_mighty.png	0.504207	0.61875176	100
+Gui/pets/rebirthbacon	rebirthbacon.png	0.5057019	0.48671934	100
+rebirthbacon	rebirthbacon.png	0.5057019	0.48671934	100
+Gui/rebirthbacon	rebirthbacon.png	0.5057019	0.48671934	100
+Gui/Items/rebirthbacon	rebirthbacon.png	0.5057019	0.48671934	100
+Gui/pets/fsm	fsm.png	0.5022521	0.48583892	100
+fsm	fsm.png	0.5022521	0.48583892	100
+Gui/pets/pet_fsm	fsm.png	0.5022521	0.48583892	100
+Gui/pets/FSM	fsm.png	0.5022521	0.48583892	100
+Gui/pets/fsm_evo	fsm_evo.png	0.5	0.4999465	100
+fsm_evo	fsm_evo.png	0.5	0.4999465	100
+Gui/pets/evo/fsm	fsm_evo.png	0.5	0.4999465	100
+Gui/pets/FSM_evo	fsm_evo.png	0.5	0.4999465	100
+Gui/pets/stick_fsm	stick_fsm.png	0.51743174	0.42249957	100
+stick_fsm	stick_fsm.png	0.51743174	0.42249957	100
+Gui/pets/stick/stick_fsm	stick_fsm.png	0.51743174	0.42249957	100
